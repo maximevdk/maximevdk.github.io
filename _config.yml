@@ -10,7 +10,7 @@ title: Connected Abroad
 tagline: 'Stay connected with family back home'
 description: 'An iOS app to help expats stay connected with family through easy photo sharing and messaging reminders.'
 url: https://maximevdk.github.io
-baseurl: /
+baseurl: ""
 
 author:
   name: 'Maxime Van den Kerkhof'
