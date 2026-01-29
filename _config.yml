@@ -1,3 +1,21 @@
-theme: jekyll-theme-minimal
-title: Maxime dev's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Connected Abroad
+tagline: 'Stay connected with family back home'
+description: 'An iOS app to help expats stay connected with family through easy photo sharing and messaging reminders.'
+url: https://maximevdk.github.io
+baseurl: /
+
+author:
+  name: 'Maxime Van den Kerkhof'
+
+# Build settings
+exclude:
+  - README.md
+  - LICENSE.md

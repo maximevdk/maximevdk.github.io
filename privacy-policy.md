@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Policy
+---
+
 # Privacy Policy for Connected Abroad
 
 **Last updated:** January 29, 2026

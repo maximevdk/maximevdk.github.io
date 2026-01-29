@@ -1,3 +1,8 @@
+---
+layout: page
+title: Terms of Service
+---
+
 # Terms of Service for Connected Abroad
 
 **Last updated:** January 29, 2026
