@@ -19,5 +19,24 @@
       "submitted_by" : "Admin"
     },
     "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.8665970386139135, 61.45387398746596 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "other",
+      "description" : "Changing room in Førdehuset.",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : false,
+      "has_playground" : false,
+      "id" : "9CC97E74-7871-4916-AEA0-FCF816BF7A4A",
+      "is_wheelchair_accessible" : true,
+      "name" : "Førdehuset",
+      "notes" : "There’s usually a lot of kids walking around but you could potentially find a good place to nurse.",
+      "submitted_by" : "Admin"
+    },
+    "type" : "Feature"
   } ]
 }
