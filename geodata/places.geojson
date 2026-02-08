@@ -57,5 +57,24 @@
       "submitted_by" : "Admin"
     },
     "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.006899085696792008, 51.54136016803965 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "cafe",
+      "description" : "Best baby changing area in town",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : true,
+      "has_playground" : false,
+      "id" : "84F902CB-49C0-4886-B579-8B0B0059501F",
+      "is_wheelchair_accessible" : true,
+      "name" : "Chez ZiNa",
+      "notes" : "",
+      "submitted_by" : "Admin"
+    },
+    "type" : "Feature"
   } ]
 }
