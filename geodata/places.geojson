@@ -38,5 +38,24 @@
       "submitted_by" : "Admin"
     },
     "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.863009165698152, 61.450870406261004 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "other",
+      "description" : "",
+      "has_changing_area" : false,
+      "has_child_seats" : false,
+      "has_nursing_area" : false,
+      "has_playground" : true,
+      "id" : "16140EA2-4859-4EEE-AB0E-A648B5DCF10C",
+      "is_wheelchair_accessible" : false,
+      "name" : "Hafstadparken playground",
+      "notes" : "",
+      "submitted_by" : "Admin"
+    },
+    "type" : "Feature"
   } ]
 }
