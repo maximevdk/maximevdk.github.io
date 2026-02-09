@@ -111,7 +111,7 @@
       "is_wheelchair_accessible" : true,
       "name" : "Changing room and nursing area Elvetorget",
       "notes" : "You need to go get the key in the sports store.",
-      "verified" : false
+      "verified" : true
     },
     "type" : "Feature"
   } ]
