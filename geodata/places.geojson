@@ -44,7 +44,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "other",
+      "category" : "playground",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
