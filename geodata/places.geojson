@@ -16,7 +16,7 @@
       "is_wheelchair_accessible" : true,
       "name" : "Altid nursing room",
       "notes" : "Only open during shopping mall opening hours.",
-      "submitted_by" : "Admin"
+      "verified" : true
     },
     "type" : "Feature"
   }, {
@@ -35,7 +35,7 @@
       "is_wheelchair_accessible" : true,
       "name" : "Førdehuset",
       "notes" : "There’s usually a lot of kids walking around but you could potentially find a good place to nurse.",
-      "submitted_by" : "Admin"
+      "verified" : true
     },
     "type" : "Feature"
   }, {
@@ -54,7 +54,7 @@
       "is_wheelchair_accessible" : false,
       "name" : "Hafstadparken playground",
       "notes" : "",
-      "submitted_by" : "Admin"
+      "verified" : true
     },
     "type" : "Feature"
   }, {
@@ -73,7 +73,7 @@
       "is_wheelchair_accessible" : true,
       "name" : "Chez ZiNa",
       "notes" : "",
-      "submitted_by" : "Admin"
+      "verified" : true
     },
     "type" : "Feature"
   } ]
