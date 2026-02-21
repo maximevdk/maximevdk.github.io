@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Terms of Service
+title: Terms of Service — Connected Abroad
+nav: false
 ---
 
 # Terms of Service for Connected Abroad
