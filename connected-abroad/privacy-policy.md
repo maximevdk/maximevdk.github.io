@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy Policy — Connected Abroad
+nav: false
 ---
 
 # Privacy Policy for Connected Abroad
