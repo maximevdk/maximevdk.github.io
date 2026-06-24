@@ -82,4 +82,4 @@ These Terms shall be governed by and construed in accordance with the laws of No
 For questions about these Terms, please contact:
 
 **Maxime Van den Kerkhof**  
-Email: maxime.vandenkerkhof@gmail.com
+Email: [your-email@example.com]
