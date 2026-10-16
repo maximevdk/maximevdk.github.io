@@ -71,4 +71,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 If you have questions about this Privacy Policy, please contact:
 
 **Maxime Van den Kerkhof**  
-Email: [your-email@example.com]
+LinkedIn: [linkedin.com/in/maximevdk](https://www.linkedin.com/in/maximevdk/)

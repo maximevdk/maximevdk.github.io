@@ -1,0 +1,6 @@
+# Open-source projects shown on the home page.
+- name: yawl
+  url: https://github.com/maximevdk/yawl
+  summary: >-
+    Yet Another Web Library: a Java web framework written from scratch, published to Maven Central.
+  stack: [Java, Maven]

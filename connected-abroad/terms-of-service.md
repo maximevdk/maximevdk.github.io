@@ -70,4 +70,4 @@ These Terms shall be governed by and construed in accordance with the laws of No
 For questions about these Terms, please contact:
 
 **Maxime Van den Kerkhof**  
-Email: [your-email@example.com]
+LinkedIn: [linkedin.com/in/maximevdk](https://www.linkedin.com/in/maximevdk/)
