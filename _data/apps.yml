@@ -1,0 +1,19 @@
+# iOS apps shown on the home page.
+# app_store: set to the App Store URL once the app is live; the button is hidden while it's empty.
+- name: Pendlerlogg
+  slug: pendlerlogg
+  icon: /assets/icons/pendlerlogg.png
+  summary: >-
+    Logs overnight stays, home trips and receipts for Norwegian commuters, and adds them up
+    into the numbers for the commuter deduction on the tax return. Everything stays on the device.
+  stack: [SwiftUI, SwiftData, VisionKit, Share extension]
+  app_store:
+
+- name: Connected Abroad
+  slug: connected-abroad
+  icon: /assets/icons/connected-abroad.png
+  summary: >-
+    Helps expats stay connected with family back home, with photo sharing and gentle reminders
+    to get in touch.
+  stack: [SwiftUI, Foundation Models, Translation, Vision]
+  app_store:
