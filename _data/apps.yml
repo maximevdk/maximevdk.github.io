@@ -6,7 +6,7 @@
   summary: >-
     Logs overnight stays, home trips and receipts for Norwegian commuters, and adds them up
     into the numbers for the commuter deduction on the tax return. Everything stays on the device.
-  stack: [SwiftUI, SwiftData, VisionKit, Share extension]
+  stack: [SwiftUI, SwiftData, Share extension, Liquid Glass]
   app_store:
 
 - name: Connected Abroad
