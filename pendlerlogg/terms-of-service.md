@@ -6,7 +6,7 @@ nav: false
 
 # Terms of Service for Pendlerlogg
 
-**Last updated:** October 16, 2026
+**Last updated:** November 4, 2026
 
 ## Copyright Notice
 
@@ -16,7 +16,7 @@ Pendlerlogg, including all content, features, functionality, design, and code, i
 
 ## About the App
 
-Pendlerlogg is an iOS application that helps commuters in Norway ("pendlere") keep a record of overnight stays, home trips and receipts, and adds them up into totals for the commuter deduction on the Norwegian tax return.
+Pendlerlogg is an app for iPhone, iPad and Mac that helps commuters in Norway ("pendlere") keep a record of overnight stays, home trips and receipts, and adds them up into totals for the commuter deduction on the Norwegian tax return.
 
 ## Not Tax Advice
 
@@ -44,7 +44,7 @@ You may not:
 
 ## Your Data
 
-All data you enter is stored on your device. You are responsible for keeping backups of your records and receipts. We cannot recover data that is lost, for example when the app is deleted or a device is lost.
+All data you enter is stored on your devices and, if you are signed in to iCloud, in your private iCloud database, which Apple provides and we cannot access. You are responsible for keeping backups of your records and receipts. We cannot recover data that is lost, for example when the app is deleted, a device is lost, or iCloud data is removed.
 
 ## Disclaimer of Warranties
 
