@@ -1,5 +1,6 @@
 # iOS apps shown on the home page.
 # app_store: set to the App Store URL once the app is live; the button is hidden while it's empty.
+# support: true when the app has a <slug>/support page.
 - name: Pendlerlogg
   slug: pendlerlogg
   icon: /assets/icons/pendlerlogg.png
@@ -8,6 +9,7 @@
     into the numbers for the commuter deduction on the tax return. Everything stays on the device.
   stack: [SwiftUI, SwiftData, Share extension, Liquid Glass]
   app_store:
+  support: true
 
 - name: Connected Abroad
   slug: connected-abroad

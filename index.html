@@ -29,6 +29,7 @@ title: Home
       </ul>
       <p class="card-links">
         {% if app.app_store %}<a class="button" href="{{ app.app_store }}">App Store</a>{% endif %}
+        {% if app.support %}<a href="{{ site.baseurl }}/{{ app.slug }}/support">Support</a>{% endif %}
         <a href="{{ site.baseurl }}/{{ app.slug }}/privacy-policy">Privacy Policy</a>
         <a href="{{ site.baseurl }}/{{ app.slug }}/terms-of-service">Terms of Service</a>
       </p>
